@@ -23,8 +23,8 @@
 
 3. 修改 快速订阅入口 以及 添加内置节点信息：
 
-   例如您的pages项目域名为：`sub.fuck.cloudns.biz`；
-   - 添加 `TOKEN` 变量，快速订阅访问入口，默认值为: `auto` ，获取订阅器默认节点订阅地址即 `/auto` ，例如 `https://sub.fuck.cloudns.biz/auto`；
+   例如您的pages项目域名为：`v2s.vscpython.dpdns.org`；
+   - 添加 `TOKEN` 变量，快速订阅访问入口，默认值为: `auto` ，获取订阅器默认节点订阅地址即 `/auto` ，例如 `https://v2s.vscpython.dpdns.org/auto`；
 
 **添加 VLESS 内置节点信息**
    - 添加 `HOST` 变量，例如 `edgetunnel-2z2.pages.dev`；
@@ -74,8 +74,8 @@
 
 2. 修改 快速订阅入口 以及 添加内置节点信息：
 
-   例如您的workers项目域名为：`sub.cmliussss.workers.dev`；
-   - 添加 `TOKEN` 变量，快速订阅访问入口，默认值为: `auto` ，获取订阅器默认节点订阅地址即 `/auto` ，例如 `https://sub.cmliussss.workers.dev/auto`；
+   例如您的workers项目域名为：`sub.vscpython.workers.dev`；
+   - 添加 `TOKEN` 变量，快速订阅访问入口，默认值为: `auto` ，获取订阅器默认节点订阅地址即 `/auto` ，例如 `https://sub.vdcpython.workers.dev/auto`；
 
 **添加 VLESS 内置节点信息**
    - 添加 `HOST` 变量，例如 `edgetunnel-2z2.pages.dev`；
